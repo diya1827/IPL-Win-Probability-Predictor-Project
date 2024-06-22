@@ -1,3 +1,3 @@
 # ipl-win-prediction
 
-hello
+IPL win prediction model
